@@ -1,0 +1,3 @@
+[submodule "SevenAPp"]
+	path = SevenAPp
+	url = git@github.com:ScoopThemes/SevenApp.git
